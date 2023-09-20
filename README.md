@@ -7,4 +7,4 @@
 
 -Used **vcpkg** for installing the library.
 
--GeneticAlgorithm
+-**GeneticAlgorithm**
